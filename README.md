@@ -25,11 +25,11 @@
 2. Set up MongoDB locally or use a cloud instance.
 
 3. Build and run the Spring Boot application:
-    
+   ```bash
     mvn clean install
     mvn spring-boot:run
 
-4. Access the application in your browser.(Working)    
+5. Access the application in your browser.(Working)    
 
 
 ## Future Scope
